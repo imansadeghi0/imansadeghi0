@@ -66,7 +66,7 @@
 
 ### 🔗 Socials
 - **LinkedIn:** www.linkedin.com/in/iman-sadeghi-0b7152378  
-- **Telegram:** t.me/imansadeghi0 
+- **Telegram:** [t.me/imansadeghi0 ](https://www.t.me/imansadeghi0)
 - **Discord:** imansadeghi00  
 - **Instagram:** https://www.instagram.com/imansadeghi0/  
 - **Steam:** https://steamcommunity.com/id/imanVibe/  
