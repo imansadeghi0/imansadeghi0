@@ -68,8 +68,9 @@
 - **LinkedIn:** www.linkedin.com/in/iman-sadeghi-0b7152378  
 - **Telegram:** [t.me/imansadeghi0 ](https://www.t.me/imansadeghi0)
 - **Discord:** imansadeghi00  
-- **Instagram:** https://www.instagram.com/imansadeghi0/  
-- **Steam:** <a href="[https://steamcommunity.com/id/saaz742](https://steamcommunity.com/id/imanVibe/)" rel="nofollow"><img src="https://camo.githubusercontent.com/0aec858f86d3cb8b23f2c63edf4a4b78c584660ef8c4faf4d4be77f165f8c2fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537465616d2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d737465616d" alt="Steam" data-canonical-src="https://img.shields.io/badge/-Steam-black?style=for-the-badge&amp;logo=steam" style="max-width: 100%;"></a>
+- **Instagram:** https://www.instagram.com/imansadeghi0/
+- </br>
+ <a href="[https://steamcommunity.com/id/saaz742](https://steamcommunity.com/id/imanVibe/)" rel="nofollow"><img src="https://camo.githubusercontent.com/0aec858f86d3cb8b23f2c63edf4a4b78c584660ef8c4faf4d4be77f165f8c2fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537465616d2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d737465616d" alt="Steam" data-canonical-src="https://img.shields.io/badge/-Steam-black?style=for-the-badge&amp;logo=steam" style="max-width: 100%;"></a>
 
   
 
