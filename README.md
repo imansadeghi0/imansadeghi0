@@ -32,14 +32,14 @@
 
 ### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java Mobile](https://img.shields.io/badge/Java%20Mobile-5382a1?style=flat-square&logo=java&logoColor=white)
+
 
 ### 🤖 AI / ML
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge)
 
-### ☕ Other Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
