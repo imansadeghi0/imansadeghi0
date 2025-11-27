@@ -69,7 +69,9 @@
 - **Telegram:** [t.me/imansadeghi0 ](https://www.t.me/imansadeghi0)
 - **Discord:** imansadeghi00  
 - **Instagram:** https://www.instagram.com/imansadeghi0/  
-- **Steam:** [![Steam](https://community.cloudflare.steamstatic.com/public/shared/images/responsive/share_steam_logo.png)](https://steamcommunity.com/id/imanVibe/)
+- **Steam:** <a href="https://steamcommunity.com/id/imanVibe/">
+  <img src="https://community.cloudflare.steamstatic.com/public/shared/images/responsive/share_steam_logo.png" width="120"/>
+</a>
   
 
 ---
